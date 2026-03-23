@@ -1,4 +1,3 @@
 LLM experimentation with Python,Agents, and Ollama.
 
-
-<img width="1919" height="580" alt="image" src="https://github.com/user-attachments/assets/e71cd30c-083c-4798-8d06-4c414349096f" />
+<img width="1918" height="420" alt="image" src="https://github.com/user-attachments/assets/d5c3dd43-24ea-4d05-b82e-9f053707057a" />
